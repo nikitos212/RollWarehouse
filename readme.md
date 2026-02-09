@@ -195,16 +195,6 @@ curl "http://localhost:5000/api/rolls/statistics?start=2025-01-01T00:00:00Z&end=
 
 ## Отладка и часто встречающиеся проблемы
 
-### Swagger 404 в контейнере
-Если Swagger 404 — убедитесь, что в `docker-compose.yml` установлено:
-```
-ASPNETCORE_ENVIRONMENT=Development
-```
-или включена опция `Swagger__Enabled=true` (в коде есть поддержка).
-
-### `Failed to connect to 127.0.0.1:5432` / Connection refused
-Это означает, что внутри контейнера API пытается подключиться к `localhost`. Убедитесь, что вы передали connection string, где `Host=db` (имя сервиса). См. пример `docker-compose.yml` выше.
-
 ### Миграции / PendingModelChangesWarning
 Ошибка `The model for context 'PersistenceContext' has pending changes` — вызывется, если вы пытаетесь `database update` без созданной миграции. Создайте миграцию командой `dotnet ef migrations add ...`, затем `dotnet ef database update`.
 
@@ -214,7 +204,7 @@ ASPNETCORE_ENVIRONMENT=Development
 dotnet tool install --global dotnet-ef
 ```
 
-### Логи контейнера
+## Логи контейнера
 Просмотр логов:
 ```bash
 docker-compose logs -f api

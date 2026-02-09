@@ -1,0 +1,21 @@
+# Все текстовые файлы приводим к LF
+* text=auto
+
+# C# файлы
+*.cs text eol=lf
+*.csproj text eol=lf
+*.sln text eol=lf
+
+# Конфигурации и Docker
+*.xml text eol=lf
+*.yml text eol=lf
+Dockerfile text eol=lf
+*.json text eol=lf
+
+# Markdown
+*.md text eol=lf
+
+# Игнорируем obj/bin (не трогаем)
+src/**/*.csproj binary
+src/**/bin/* binary
+src/**/obj/* binary

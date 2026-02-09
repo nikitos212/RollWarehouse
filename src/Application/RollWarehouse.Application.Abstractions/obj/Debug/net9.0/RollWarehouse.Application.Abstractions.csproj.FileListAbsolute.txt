@@ -1,0 +1,16 @@
+/home/littleking08/ProjectsC#/RollWarehouse/src/Application/RollWarehouse.Application.Abstractions/bin/Debug/net9.0/RollWarehouse.Application.Abstractions.deps.json
+/home/littleking08/ProjectsC#/RollWarehouse/src/Application/RollWarehouse.Application.Abstractions/bin/Debug/net9.0/RollWarehouse.Application.Abstractions.dll
+/home/littleking08/ProjectsC#/RollWarehouse/src/Application/RollWarehouse.Application.Abstractions/bin/Debug/net9.0/RollWarehouse.Application.Abstractions.pdb
+/home/littleking08/ProjectsC#/RollWarehouse/src/Application/RollWarehouse.Application.Abstractions/bin/Debug/net9.0/RollWarehouse.Domain.dll
+/home/littleking08/ProjectsC#/RollWarehouse/src/Application/RollWarehouse.Application.Abstractions/bin/Debug/net9.0/RollWarehouse.Domain.pdb
+/home/littleking08/ProjectsC#/RollWarehouse/src/Application/RollWarehouse.Application.Abstractions/obj/Debug/net9.0/RollWarehouse.Application.Abstractions.csproj.AssemblyReference.cache
+/home/littleking08/ProjectsC#/RollWarehouse/src/Application/RollWarehouse.Application.Abstractions/obj/Debug/net9.0/RollWarehouse.Application.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/home/littleking08/ProjectsC#/RollWarehouse/src/Application/RollWarehouse.Application.Abstractions/obj/Debug/net9.0/RollWarehouse.Application.Abstractions.AssemblyInfoInputs.cache
+/home/littleking08/ProjectsC#/RollWarehouse/src/Application/RollWarehouse.Application.Abstractions/obj/Debug/net9.0/RollWarehouse.Application.Abstractions.AssemblyInfo.cs
+/home/littleking08/ProjectsC#/RollWarehouse/src/Application/RollWarehouse.Application.Abstractions/obj/Debug/net9.0/RollWarehouse.Application.Abstractions.csproj.CoreCompileInputs.cache
+/home/littleking08/ProjectsC#/RollWarehouse/src/Application/RollWarehouse.Application.Abstractions/obj/Debug/net9.0/RollWarehouse.Application.Abstractions.sourcelink.json
+/home/littleking08/ProjectsC#/RollWarehouse/src/Application/RollWarehouse.Application.Abstractions/obj/Debug/net9.0/RollWare.BB2360A5.Up2Date
+/home/littleking08/ProjectsC#/RollWarehouse/src/Application/RollWarehouse.Application.Abstractions/obj/Debug/net9.0/RollWarehouse.Application.Abstractions.dll
+/home/littleking08/ProjectsC#/RollWarehouse/src/Application/RollWarehouse.Application.Abstractions/obj/Debug/net9.0/refint/RollWarehouse.Application.Abstractions.dll
+/home/littleking08/ProjectsC#/RollWarehouse/src/Application/RollWarehouse.Application.Abstractions/obj/Debug/net9.0/RollWarehouse.Application.Abstractions.pdb
+/home/littleking08/ProjectsC#/RollWarehouse/src/Application/RollWarehouse.Application.Abstractions/obj/Debug/net9.0/ref/RollWarehouse.Application.Abstractions.dll

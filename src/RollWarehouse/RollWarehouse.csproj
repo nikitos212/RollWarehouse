@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\RollWarehouse.Presentation.Http\RollWarehouse.Presentation.Http.csproj" />
+    <ProjectReference Include="..\Application\RollWarehouse.Application\RollWarehouse.Application.csproj" />
+    <ProjectReference Include="..\Infrastructure\RollWarehouse.Infrastructure.Persistence\RollWarehouse.Infrastructure.Persistence.csproj" />
+    <ProjectReference Include="..\Application\RollWarehouse.Application.Abstractions\RollWarehouse.Application.Abstractions.csproj" />
+    <ProjectReference Include="..\Domain\RollWarehouse.Domain\RollWarehouse.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="10.1.2" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>

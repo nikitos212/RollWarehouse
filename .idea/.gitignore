@@ -1,0 +1,54 @@
+### .NET build folders
+bin/
+obj/
+out/
+TestResults/
+
+### User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+### Rider / JetBrains
+.idea/
+*.iml
+
+### VS Code
+.vscode/
+
+### Logs
+*.log
+
+### NuGet
+*.nupkg
+.nuget/
+packages/
+
+### EF Core
+**/Migrations/*.Designer.cs
+**/Migrations/*Snapshot.cs
+
+### OS
+.DS_Store
+Thumbs.db
+
+### Environment / secrets
+.env
+.env.*
+appsettings.Development.json
+
+### Docker
+docker-compose.override.yml
+
+### Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+### Publish
+publish/
+
+### Temporary
+tmp/
+temp/

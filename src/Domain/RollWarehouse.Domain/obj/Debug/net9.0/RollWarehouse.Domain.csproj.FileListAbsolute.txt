@@ -1,0 +1,12 @@
+/home/littleking08/ProjectsC#/RollWarehouse/src/Domain/RollWarehouse.Domain/bin/Debug/net9.0/RollWarehouse.Domain.deps.json
+/home/littleking08/ProjectsC#/RollWarehouse/src/Domain/RollWarehouse.Domain/bin/Debug/net9.0/RollWarehouse.Domain.dll
+/home/littleking08/ProjectsC#/RollWarehouse/src/Domain/RollWarehouse.Domain/bin/Debug/net9.0/RollWarehouse.Domain.pdb
+/home/littleking08/ProjectsC#/RollWarehouse/src/Domain/RollWarehouse.Domain/obj/Debug/net9.0/RollWarehouse.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/littleking08/ProjectsC#/RollWarehouse/src/Domain/RollWarehouse.Domain/obj/Debug/net9.0/RollWarehouse.Domain.AssemblyInfoInputs.cache
+/home/littleking08/ProjectsC#/RollWarehouse/src/Domain/RollWarehouse.Domain/obj/Debug/net9.0/RollWarehouse.Domain.AssemblyInfo.cs
+/home/littleking08/ProjectsC#/RollWarehouse/src/Domain/RollWarehouse.Domain/obj/Debug/net9.0/RollWarehouse.Domain.csproj.CoreCompileInputs.cache
+/home/littleking08/ProjectsC#/RollWarehouse/src/Domain/RollWarehouse.Domain/obj/Debug/net9.0/RollWarehouse.Domain.sourcelink.json
+/home/littleking08/ProjectsC#/RollWarehouse/src/Domain/RollWarehouse.Domain/obj/Debug/net9.0/RollWarehouse.Domain.dll
+/home/littleking08/ProjectsC#/RollWarehouse/src/Domain/RollWarehouse.Domain/obj/Debug/net9.0/refint/RollWarehouse.Domain.dll
+/home/littleking08/ProjectsC#/RollWarehouse/src/Domain/RollWarehouse.Domain/obj/Debug/net9.0/RollWarehouse.Domain.pdb
+/home/littleking08/ProjectsC#/RollWarehouse/src/Domain/RollWarehouse.Domain/obj/Debug/net9.0/ref/RollWarehouse.Domain.dll
